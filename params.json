@@ -1,0 +1,6 @@
+{
+  "name": "Implementation of an Interactive Heads Up Display for the V-ERAS Simulation",
+  "tagline": "A website for final work submission for Google Summer of Code 2016 under Italian Mars Society ",
+  "body": "### Welcome\r\nHi my Name is Aakash Rajpal. This webpage will showcase the work done throughout the summer and code generated during GSoC 2016.\r\n\r\n## Description\r\nThe project aims to develop an interactive Heads up Display (HUD) on the OCULUS RIFT for the V-ERAS Simulation. Once the interactive semi-transparent interface is implemented on the existing V-ERAS simulation environment it should display data from the Habitat Monitoring Client.  A portion of the project will aim at making the HUD highly interactive and recognize touchless hand and body gestures through Leap Motion Controller.\r\n\r\n### Deliverables achieved\r\n* An HUD which displays data from the HMC server on the V-ERAS environment.\r\n* HMC server modified to work with a TCP Client and send data as requested.\r\n* Integeration of Leap Motion Python API and Blender API to make HUD interactive.\r\n\r\n### Short Demo video of my work\r\n\r\n\r\n### Work Done (Links to my code)\r\n* Github Commits\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
